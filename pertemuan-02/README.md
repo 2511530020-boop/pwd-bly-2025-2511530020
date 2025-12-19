@@ -7,4 +7,10 @@ belajar:
 <ol>
 <li>emmet untuk struktur untuk html</li>
 <li>emmet untuk header+main+footer</li>
+<li>emmet untuk header yaitu h1+nav>ul>li*3>a</li>
+<li>emmet untuk section*2>h2+p main</li>
+<li>tag p didalam footer</li>
+<li>ganti judul halaman</li>
+<li>ganti header</li>
 </ol>
+
