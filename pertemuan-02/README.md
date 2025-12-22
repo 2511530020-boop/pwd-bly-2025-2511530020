@@ -12,5 +12,6 @@ belajar:
 <li>tag p didalam footer</li>
 <li>ganti judul halaman</li>
 <li>ganti header</li>
+<li>mengisi main untuk section home, about, contact</li> 
 </ol>
 
