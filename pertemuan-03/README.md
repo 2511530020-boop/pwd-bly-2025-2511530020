@@ -14,4 +14,5 @@ hari ini,selasa 23.DES.2025 belajar:
 <li>styling section #about untuk tag p</li>
 <li>styling section #about untuk tag strong</li>
 <li>styling untuk perangkat lebar layar maksimun 600px</li>
+<li>styling id section#contact</li>
 </ol>
