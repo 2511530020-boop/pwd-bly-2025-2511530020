@@ -16,4 +16,6 @@ hari ini,selasa 23.DES.2025 belajar:
 <li>styling untuk perangkat lebar layar maksimun 600px</li>
 <li>styling id section#contact</li>
 <li>section#contact groups selector</li>
+<li>section#contact gruops selector h2</li>
+<li>section#contact upgrade struktur form</li>
 </ol>
