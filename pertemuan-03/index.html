@@ -68,6 +68,15 @@
       flex-shrink: 0;
      }
 
+     #contact label>span {
+      min-width: 100px;
+      color: #003366;
+      font-weight: 600;
+      text-align: right;
+      padding-right: 16px;
+      flex-shrink: 0;
+     }
+
      @media(max-width: 600px) {
       #about p {
         flex-direction: column;
@@ -87,15 +96,6 @@
         padding: 6px 0;
         border-bottom: 1px solid #e6e6e6;
       }
-
-      #about p {
-      display: flex;
-      justify-content: flex-start;
-      align-items: baseline;
-      margin: 0;
-      padding: 6px 0;
-      border-bottom: 1px solid #e6e6e6;
-    }
 
     #about p ,
     #contact label {
@@ -119,7 +119,7 @@
                 <li><a href="#contact">kontak</a></li>
             </ul>
         </nav>
-    </header>
+    </header> 
         <main>
           <section id="home"> 
         <h2>selamat datang</h2>
@@ -147,7 +147,7 @@
         <label for="txtpesan"><span pesan:</span>
         <textarea rows="5" name="txtpesan" id="txtpesan" required placeholder="tulis pesan anda"></textarea>
           
-     <button type="sumbit">Kirim</button>
+     <button type="submit">Kirim</button>
      <button type="reset">Batal</button>
     </form>
     </section>
