@@ -19,4 +19,5 @@ hari ini,selasa 23.DES.2025 belajar:
 <li>section#contact gruops selector h2</li>
 <li>section#contact upgrade struktur form</li>
 <li>section#contact styling label</li>
+<li>section#contact styling label>span</li>
 </ol>
