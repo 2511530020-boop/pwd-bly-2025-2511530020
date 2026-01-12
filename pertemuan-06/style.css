@@ -85,7 +85,8 @@ header li a:active {
 }
 
 #about p,
-#contact label {
+#contact label 
+#tamu label {
   display: flex;
   justify-content: flex-start;
   align-items: baseline;
@@ -95,7 +96,8 @@ header li a:active {
 }
 
 #about strong,
-#contact label>span {
+#contact label>span
+#tamu p {
   min-width: 180px;
   color: #003366;
   font-weight: 600;
